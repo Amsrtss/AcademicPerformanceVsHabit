@@ -58,13 +58,16 @@ streamlit run app.py
 ## 🔬 Proses Model
 
 * **Preprocessing:**
-<img width="866" height="380" alt="image" src="https://github.com/user-attachments/assets/1b32afc4-0f9a-465e-9d69-37c9648f1db4" />
 
+<img width="563" height="594" alt="image" src="https://github.com/user-attachments/assets/b036f721-eef3-4d3d-9be9-ad71854ea7f2" />
+<img width="940" height="244" alt="image" src="https://github.com/user-attachments/assets/e5855624-a371-430f-b583-0c357909fe14" />
+<img width="940" height="450" alt="image" src="https://github.com/user-attachments/assets/b45a8bb9-1355-4fd0-bb32-de20c2eaef0c" />
 
   * Deteksi dan penanganan missing value
   * Encoding ordinal dan nominal
   * Standarisasi fitur numerik
 * **Modeling:**
+<img width="866" height="380" alt="image" src="https://github.com/user-attachments/assets/1b32afc4-0f9a-465e-9d69-37c9648f1db4" />
 <img width="743" height="300" alt="image" src="https://github.com/user-attachments/assets/e6816367-7122-47ba-955b-2a98876f0a53" />
 
   * Linear Regression
